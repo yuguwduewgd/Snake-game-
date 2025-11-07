@@ -1,4 +1,4 @@
-# Snake-Game🐍 Realistic Snake Game (HTML, CSS, JavaScript)
+# Snake-Game🐍 Realistic Snake Game (HTML)
 
 A modern, dark-themed implementation of the classic Snake arcade game, built using only client-side web technologies.
 
